@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor{
+    height: 50%;
+    width: 50%;
+    border: 1px solid;
+
+
+}
+form{
+    height: 100%;
+    width: 100%;
+    
+}
+.first{
+    height: 20%;
+    width: 100%;
+   
+}
+.first input{
+    width: 30%;
+    
+}
+.second{
+    height: 20%;
+}
+.third{
+    height: 20%;
+}
+.fourth{
+    height: 20%;
+}
+.chek{
+    height: 10%;
+}
+.botones{
+    height: 10%;
+}
