@@ -43,7 +43,7 @@ registrar.addEventListener('click',()=>{
     //     console.log('inavlido telefono')
     // }
     if(contraseña.value === contraseña2.value){
-        console.log('la contraseña es igual')
+        console.log('la contraseña es iaaaagual')
         contraseñas=true
     }else{
         console.log('invalido contraseña')
