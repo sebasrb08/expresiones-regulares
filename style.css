@@ -15,8 +15,8 @@ body{
 background: linear-gradient(90deg, rgb(248, 148, 148) 34%, rgb(119, 180, 255) 100%);
 }
 .contenedor{
-    height: 50%;
-    width: 40%;
+    height: 60%;
+    width: 50%;
     border: 1px solid gray;
     box-shadow: 20px 20px 20px #000000;
     border-radius: 10px;
@@ -48,6 +48,7 @@ form{
 .first input{
     width: 30%;
     height: 40%;
+   
   
 }
 .second{
@@ -59,6 +60,7 @@ form{
 }
 .second input{
     height: 40%;
+
 }
 .third{
     height: 20%;
@@ -70,13 +72,18 @@ form{
 .third input{
     width: 80%;
     height: 40%;
+
 }
 .fourth{
     height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
 
 }
 .fourth input{
 height: 40%;
+
 }
 .chek{
     height: 10%;
@@ -166,3 +173,6 @@ height: 40%;
     height: 100%;
     background: #4433ff;
   }
+input{
+    font-size: 25px;
+}
